@@ -1,8 +1,8 @@
-# aula_javascript
+# Aulas de JavaScript
 
-Funcoes do site
+Funções do site
 
-- Adiciona usuarios com validacao nos campos
+- Adiciona usuarios com validação nos campos de input
 - Remove usuarios dando duplo clique na linha da tabela
 - Filtra usuarios usando expressoes regulares
 - Faz requisicao pra API https://api-pacientes.herokuapp.com/pacientes
